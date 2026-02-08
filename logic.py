@@ -1,6 +1,5 @@
 # Feed-W-Astafid Project
 # Initial logic for tracking food surplus and optimizing donations
-# Developed by: Rand
 
 def calculate_food_status():
     """
